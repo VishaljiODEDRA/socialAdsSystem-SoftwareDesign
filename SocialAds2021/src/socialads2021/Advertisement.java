@@ -21,8 +21,6 @@ public class Advertisement {
 
         this.title = title;
         this.adText = adText;
-
-
     }
 
 
@@ -36,4 +34,6 @@ public class Advertisement {
 
     void setText(String newText) {
         this.adText=newText;
+    }
     
+}
